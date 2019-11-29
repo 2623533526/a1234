@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("这是主分支");
         System.out.println("这是子分支的消息");
+        System.out.println("1111111111111111111111");
     }
 }
